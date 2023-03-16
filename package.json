@@ -4,6 +4,15 @@
     "version": "0.0.1",
     "description": "Censors words out of text",
     "main": "censor",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rayapati-56/censoritpvp"
+        },
+        "keywords": [
+        "censor",
+        "words"
+        ],
+        
     "dependencies": {},
     "engines": {
     "node": "*"
